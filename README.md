@@ -1,2 +1,2 @@
 # TTS_tools
-Some tolls for Text-To-Speech
+Some tools for Text-To-Speech
